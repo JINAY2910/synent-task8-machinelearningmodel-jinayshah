@@ -36,7 +36,7 @@ An advanced Machine Learning and Data Science project leveraging regression mode
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/JINAY2910/synent-task8-machinelearningmodel-jinayshah.git
 cd synent-task8-machinelearningmodel-jinayshah
 ```
 
